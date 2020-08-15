@@ -1,3 +1,7 @@
 blogpost.html
 paborrar.txt
-prueba.pam
+
+
+Se modifica este archivo por cabecera para ver cómo se ven las ramas con --graph
+
+Intesante.

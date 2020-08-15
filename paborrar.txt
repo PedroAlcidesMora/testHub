@@ -2,4 +2,4 @@ blogpost.html
 paborrar.txt
 prueba.pam
 
-Esto es un cambio para persistir temporalmente.
+Esto es un cambio para persistir definitivamente.

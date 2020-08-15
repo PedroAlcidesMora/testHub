@@ -1,8 +1,6 @@
 blogpost.html
 paborrar.txt
-prueba.pam
 
-Esto es un cambio para persistir definitivamente.
+Se modifica este archivo por cabecera para ver cómo se ven las ramas con --graph
 
-
-Agregar otra linea puede servir para probar cosas.
+Intesante.

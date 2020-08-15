@@ -8,16 +8,6 @@ Date:   Sat Aug 15 12:00:39 2020 -0500
 Author: Pedro Mora <pmora3000@gmail.com>
 Date:   Sat Aug 15 11:51:21 2020 -0500
 
-    Se agrega archivo paborrar.txt
-
-[33mcommit 6433061234be63d0fa2d59a8d4a312b6d7f93aad[m
-Author: Pedro Mora <pmora3000@gmail.com>
-Date:   Sat Aug 15 08:09:23 2020 -0500
-
-    arreglo ortografico
-
-[33mcommit 03c262604ede7cfe10ecb19c2fa70908d3aaa6ae[m
-Author: Pedro Mora <pmora3000@gmail.com>
-Date:   Sat Aug 15 08:06:31 2020 -0500
-
-    Primero Commit de prueba
+    Se borran unas líneas y se reemplazan por esta.
+    
+  
